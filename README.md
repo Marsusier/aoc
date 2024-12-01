@@ -7,10 +7,6 @@
   <h3 align="center">
     🎄 Advent of Code 🎄
   </h3>
-
-  <p align="center">
-    2023 Edition
-  </p>
 </div>
 
 ---
@@ -22,14 +18,10 @@
 
 <!-- BUILT WHIT -->
 ## 🔧 Built With
-* [![Python][Python]][Python-url]
-
-<!-- AUTHOR -->
-## 🙇 Author
+[![Python][Python]][Python-url]
 
 #### marsusier
 - <ins>Discord:</ins> `marsusier`
-- <ins>Github:</ins> [@marsusier][Github-url]
 
 <!-- LICENCE -->
 ## ➤ License
